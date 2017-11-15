@@ -18,8 +18,8 @@ const facts = [
 ];
 
 function johnLennonFacts(facts) {
-  var punctuatedfacts = [] 
-  let i = 0 
+  var punctuatedfacts = []
+  let i = 0
   while (i < facts.length) {
     punctuatedfacts.push(facts[i] + "!!!")
     i++
