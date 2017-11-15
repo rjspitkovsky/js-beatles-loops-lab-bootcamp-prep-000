@@ -26,3 +26,13 @@ function johnLennonFacts(facts) {
   }
   return punctuatedfacts
 }
+
+function iLoveTheBeatles(number) {
+  var emptyarray = [] 
+  let i = 0 
+  do {
+    emptyarray.push("I love the Beatles!")
+  } while (i < 15); 
+  i ++ 
+  return emptyarray 
+}
