@@ -32,7 +32,7 @@ function iLoveTheBeatles(number) {
   let i = 0
   do {
     emptyarray.push("I love the Beatles!")
+    i++
   } while (i < 15);
-  i ++
-  return emptyarray 
+  return emptyarray
 }
