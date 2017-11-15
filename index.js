@@ -29,10 +29,10 @@ function johnLennonFacts(facts) {
 
 function iLoveTheBeatles(number) {
   var emptyarray = []
-  let i = 0
+  let number = 0
   do {
     emptyarray.push("I love the Beatles!")
-    i++
-  } while (i < 15);
+    number++
+  } while (number < 15);
   return emptyarray
 }
